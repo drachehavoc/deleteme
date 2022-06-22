@@ -1,0 +1,6 @@
+[submodule "davi-scriptando"]
+	path = davi-scriptando
+	url = https://github.com/drachehavoc/davi-scriptando
+[submodule "Vanuatu-Image-Buffer"]
+	path = Vanuatu-Image-Buffer
+	url = https://github.com/drachehavoc/Vanuatu-Image-Buffer
